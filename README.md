@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on project-- **Hospitality Domain Data Analysis and Medical Data Extraction**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Power BI**
 
 - 📫 How to reach me **gokul08r@gmail.com**
 
