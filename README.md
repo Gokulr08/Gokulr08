@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on project-- **Hospitality Domain Data Analysis and Medical Data Extraction**
+- 🔭 I’m currently working on project-- **Medical Data Extraction**
 
-- 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **Python DSA**
 
 - 📫 How to reach me **gokul08r@gmail.com**
 
