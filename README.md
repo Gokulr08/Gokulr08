@@ -1,20 +1,36 @@
-<h1 align="center">Hi 👋, I'm Gokul R</h1>
-<h3 align="center">🔍 Exploring the world of data through coding and analysis 📊🌍✨</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+# Hello, I'm Gokul! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulr08&label=Profile%20views&color=0e75b6&style=flat" alt="gokulr08" /> </p>
+I really enjoy writing computer programs and building websites. Let me tell you a bit about myself:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 📧 **Email:** gokul08r@gmail.com
 
-- 🔭 I’m currently working on project-- **Medical Data Extraction**
+## What I'm Good At
 
-- 🌱 I’m currently learning **Python DSA**
+### Technical Skills
+- 💻 **Programming Languages:** I'm good at using Python.
+- ⚙️ **Web Development:** I know how to create websites using Django, HTML, CSS, and JavaScript.
+- 🌐 **Web Frameworks:** I specialize in Django.
+- 📦 **Databases:** I can work with databases using Object-Oriented Programming (OOP) and Object-Relational Mapping (ORM).
+- 🚀 **Tools & Tech:** I'm familiar with Git, GitHub, VS Code, and PyCharm.
+- 🏗️ **Methodology:** I'm comfortable with Agile, a way to work on projects effectively.
 
-- 📫 How to reach me **gokul08r@gmail.com**
+### What I'm Learning
+- 📊 **Data Structures and Algorithms (DSA)**: I'm currently studying this to improve my coding skills.
+- 🌐 **REST API Development**: I'm also learning how to create APIs for web applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gokul-r-66a934280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-r-66a934280" height="30" width="40" /></a>
-<a href="https://instagram.com/gokul21r._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokul21r._" height="30" width="40" /></a>
-</p>
+## Personal Skills
 
+### Soft Skills
+- 🧩 **Problem-Solving:** I'm good at breaking down tough problems into smaller, solvable parts.
+- 👥 **Teamwork:** I enjoy working with others and I'm good at it.
+- 🚀 **Always Learning:** I'm always excited to learn new things and take on new challenges.
+
+## My Work
+
+I've been part of many interesting projects that show my skills and love for coding. You can find them in my [GitHub Repositories](https://github.com/YourGitHubUsername).
+
+## Get in Touch
+
+I'd love to connect and collaborate with people who share my interests. If you have questions, want to work on a project together, or just want to say hello, you can email me at gokul08r@gmail.com. You can also find me on [[LinkedIn](https://www.linkedin.com/in/gokul-r-66a934280/)!
+
+Let's learn, code, and build cool stuff together!
