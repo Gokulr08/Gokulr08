@@ -33,6 +33,3 @@
 - ***Teamwork:*** 👥
 - ***Always Learning:*** 📚
 
-### My Work
----
-I've been part of many interesting projects that showcase my skills and love for coding. You can find them in my [GitHub Repositories](https://github.com/Gokulr08?tab=repositories).
