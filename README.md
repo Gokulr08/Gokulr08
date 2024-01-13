@@ -12,6 +12,8 @@
 
 ***Web Frameworks:*** 🌟 My specialization is in Django.
 
+***Testing:*** Pytest
+
 ***Object-Oriented Programming (OOP):*** 🎯 I have strong knowledge in OOP to structure code, making it more organized and understandable.
 
 ***Cloud Services:*** ☁️ Familiar with AWS.
