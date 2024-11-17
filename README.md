@@ -1,6 +1,14 @@
 <h1 align="center">Hi, I'm Gokul Ravikumar</h1>
 <h3 align="center">I’m learning competitive programming and working on data analytics</h3>
 
+- 🔭 Currently Working On **Expense Tracking System Technologies Used | FastAPI, SQL, Postman**
+
+- 🌱 I’m currently learning **competitive programming like DSA**
+
+- 👨‍💻 Notion Portfolio [https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4](https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4)
+
+- 📫 How to reach me **gokul08r@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
