@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Gokul Ravikumar
+# 👋 Haiii, I am Gokul Ravikumar
+# I am working at TCS
 
 ### I’m learning competitive programming and working on data analytics.
 
