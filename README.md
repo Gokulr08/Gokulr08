@@ -1,7 +1,7 @@
 # 👋 Haiii, I am Gokul Ravikumar
 ### I am working at TCS
 
-### I’m learning competitive programming and working on data analytics.
+### I am learning competitive programming and working on data analytics...
 
 
 **🔭 Currently Working On**:  
