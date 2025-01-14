@@ -5,9 +5,9 @@ Right now, I am coding Data Structures and Algorithms (DSA) on websites like Lee
 
 I am also working on different projects and freelancing, taking all types of projects to learn new things and improve.
 
-I play chess, with a current ELO of 500. My short-term goal is to reach 1000 soon (if you want to play with me, just email me, and I'll send a challenge link). Maybe I plan to join the TN Chess Association and start playing in tournaments(not sure).... In my free time, I do reading books (i like to keep my cupboard full of books). I also play badminton and have just started learning Hindi, both writing and reading.
+I play chess, with a current ELO of 500. My short-term goal is to reach 1000 soon (if you want to play with me, just email me, and I'll send a challenge link). Maybe I plan to join the TN Chess Association and start playing in tournaments(not sure 😅).... In my free time, I do reading books (i like to keep my cupboard full of books). I also play badminton and have just started learning Hindi, both writing and reading.
 
-I also keep a journal where I write about my experiences, dailylife, and how I’m growing. It helps me stay focused on my goals and learn from each step I take 🤵🏻🖤...
+I also keep a journal where I write about myself, experiences, dailylife, and how I’m growing.🤵🏻🖤...
 
 
 Skills:
