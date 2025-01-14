@@ -4,9 +4,8 @@ I'm Gokul, and I work at TCS.
 Right now, I am coding Data Structures and Algorithms (DSA) on websites like LeetCode, GeeksforGeeks, HackerRank, and CodeChef. I'm not a pro yet, bt I'm working on it.
 
 I am also working on different projects and freelancing, taking all types of projects to learn new things and improve.
-I play chess, with a current ELO of 500. My short-term goal is to reach 1000 soon (if you want to play with me, just email me, and I'll send a challenge link). Maybe I plan to join the TN Chess Association and start playing in tournaments(not sure).... In my free time, I do reading books (i like to keep my cupboard full of books). I also play badminton and have just started learning Hindi, both writing and reading.
 
-Something special about me: I always try to learn something new or stay interested in new things.
+I play chess, with a current ELO of 500. My short-term goal is to reach 1000 soon (if you want to play with me, just email me, and I'll send a challenge link). Maybe I plan to join the TN Chess Association and start playing in tournaments(not sure).... In my free time, I do reading books (i like to keep my cupboard full of books). I also play badminton and have just started learning Hindi, both writing and reading.
 
 Skills:
 - Python, Java, C  
