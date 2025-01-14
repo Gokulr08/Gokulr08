@@ -1,30 +1,24 @@
-# 👋 Haiii, I am Gokul
-### I am working at TCS
+Hey, Haii  
+I'm Gokul, and I work at TCS.
 
-### I am learning competitive programming and working on data analytics...
+Right now, I'm coding Data Structures and Algorithms (DSA) on websites like LeetCode, GeeksforGeeks, HackerRank, and CodeChef. I'm not a pro yet, but I'm working on it!
 
+I'm also working on different projects and freelancing on Upwork, taking all type of projects to learn new things and improve. I’m thinking about becoming a Data Analyst, Data Engineer, or maybe a Software Developer.
 
-**🔭 Currently Working On**:  
-Expense Tracking System (FastAPI, SQL, Postman)
+I enjoy playing chess, with a current ELO of 500. My goal is to reach 1000! Soon, I plan to join the TN Chess Association and start playing in tournaments. In my free time, I like reading books and want to make a book cupboard in my room. I also play badminton and I have just started learning Hindi, both writing and reading.
 
-**🌱 Currently Learning**:  
-Competitive Programming (DSA), Data Analytics (Python)
+Something special about me: I always try to learn something new or stay interested in new things 
 
-**📚 Skills**:  
-Python, Java, C, Django, HTML, CSS, MySQL, MongoDB, Git, Postman, Pandas
+Skills:
+- Python, Java, C  
+- Django, React, HTML, CSS  
+- MySQL, MongoDB  
+- Pandas, Numpy
 
-**📫 How to Reach Me**:  
-Email: gokul08r@gmail.com  
-LinkedIn: [Gokul's LinkedIn](https://www.linkedin.com/in/gokul8r/)  
-LeetCode: [Gokul's LeetCode](https://leetcode.com/u/gokulr08/)
+Contact Me:
+- **Email:** gokul08r@gmail.com  
+- **LinkedIn:** [Gokul's LinkedIn](https://www.linkedin.com/in/gokul8r/)  
+- **LeetCode:** [Gokul's LeetCode](https://leetcode.com/u/gokulr08/)
 
-**👨‍💻 Notion Portfolio**:  
-[My Notion Portfolio](https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4)
-
----
-
-### 🛠️ Languages and Tools:
-
-- Python, Java, C, Django, Git, Postman
-- MySQL, MongoDB, HTML, CSS
-- Pandas, Linux, OpenCV
+Notion Portfolio
+- [My Notion Portfolio](https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4)
