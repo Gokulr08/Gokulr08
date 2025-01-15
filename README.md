@@ -16,10 +16,10 @@ Skills:
 - MySQL, MongoDB  
 - Pandas, Numpy
 
-Contact Me:
+C## Contact Me
 - **Email:** gokul08r@gmail.com  
-- **LinkedIn:** [Gokul's LinkedIn](https://www.linkedin.com/in/gokul8r/)  
-- **LeetCode:** [Gokul's LeetCode](https://leetcode.com/u/gokulr08/)
+- **LinkedIn:** <a href="https://www.linkedin.com/in/gokul8r/" target="_blank">Gokul's LinkedIn</a>  
+- **LeetCode:** <a href="https://leetcode.com/u/gokulr08/" target="_blank">Gokul's LeetCode</a>
 
-Notion Portfolio
-- [My Notion Portfolio](https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4)
+## Notion Portfolio
+- <a href="https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4" target="_blank">My Notion Portfolio</a>
