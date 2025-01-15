@@ -21,5 +21,5 @@ Contact Me
 - **LinkedIn:** <a href="https://www.linkedin.com/in/gokul8r/" target="_blank">Gokul's LinkedIn</a>  
 - **LeetCode:** <a href="https://leetcode.com/u/gokulr08/" target="_blank">Gokul's LeetCode</a>
 
-## Notion Portfolio
-- <a href="https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4" target="_blank">My Notion Portfolio</a>
+Notion Portfolio
+<a href="https://gokul08r.notion.site/Hi-I-m-Gokul-f20c05eb444742eaa734fcb1526838c5?pvs=4" target="_blank">My Notion Portfolio</a>
