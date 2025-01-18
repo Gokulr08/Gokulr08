@@ -10,7 +10,7 @@ I play chess, with a current ELO of 500. My short-term goal is to reach 1000 soo
 
 Sometimes, I do reading books (I like to keep my cupboard full of books). I also play badminton and have just started learning Hindi, both writing and reading.
 
-I also keep a journal where I write about myself, experiences, and daily life 🤵🏻🖤...
+I also keep a journal where I write about myself🤵🏻🖤...
 
 ### Skills:
 - Python, Java, C  
