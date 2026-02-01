@@ -4,8 +4,6 @@ I work at **TCS** as a **Data Analyst**, currently working with **US retail and 
 
 I spend a good amount of time practicing **DSA and problem-solving** on platforms like **GeeksforGeeks, LeetCode, and CodeChef**. I also build **personal projects** to learn new things and improve through hands-on work.
 
-Outside of tech, I enjoy playing **chess** ♟️. If you play too, feel free to connect—we can play a game sometime.
-
 #### 🛠 Tech I work with
 - Python  
 - SQL  
