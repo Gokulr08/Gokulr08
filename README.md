@@ -1,4 +1,4 @@
-<h1 align="center">Heyy, I'm Gokul! 👋</h1>
+<h1 align="center">Hey, I'm Gokul! 👋</h1>
 
 <p align="center">
   Data Analyst at TCS · Open Source Contributor · Chennai based · Still figuring things out 😄
