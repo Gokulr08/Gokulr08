@@ -1,35 +1,42 @@
-<h1 align="center">Hey 👋, I'm Gokul!</h1>
+<h1 align="center">Heyy, I'm Gokul! 👋</h1>
 
 <p align="center">
-  Data Analyst at TCS · Open Source Contributor · Chennai, India
+  Data Analyst at TCS · Open Source Contributor · Chennai based · Still figuring things out 😄
 </p>
 
 <p align="center">
-  <a href="https://notion.so/yournotionpage"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
+  <a href="https://gokul08r.notion.site/Hey-Hai-f20c05eb444742eaa734fcb1526838c5?source=copy_link"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://chess.com/member/yourchessid"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=flat&logo=lichess&logoColor=white"/></a>
+  <a href="https://www.chess.com/member/gokul21r"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=flat&logo=lichess&logoColor=white"/></a>
   &nbsp;
-  <a href="https://leetcode.com/yourleetcode"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://leetcode.com/u/gokulr08/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
   &nbsp;
-  <a href="https://codechef.com/users/yourcodechef"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/gokul08r"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
   &nbsp;
-  <a href="https://geeksforgeeks.org/user/yourgfg"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/gokul21r"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
   &nbsp;
-  <a href="https://hackerrank.com/yourhackerrank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/profile/gokul08r"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
-### 💼 Experience
+### Where I Work
 
 **Data Analyst** — Tata Consultancy Services (TCS)
 `Jan 2025 – Present · Chennai, India`
-- Analysing and visualising data to support business decision-making
-- Building dashboards and reports using Power BI and Python
-- Writing and optimising SQL queries for data extraction and transformation
-- Actively contributing to open source projects alongside day-to-day work
+- Doing data work — looking at numbers, finding what's useful, telling the team
+- Making dashboards in Power BI and Python so people don't have to dig through Excel 😅
+- Writing SQL here and there to get the data ready
+
+---
+
+### What I Do on the Side
+
+- Contributing to open source whenever I get time — good way to learn new things na
+- Grinding LeetCode, CodeChef, GFG slowly slowly 😄
+- Always trying something new — some things stick, some don't, but that's how it goes
 
 ---
 
@@ -39,7 +46,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+
 
 **Data & Analytics**
 
@@ -60,21 +67,21 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokulr08&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gokulr08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulr08&layout=compact&theme=default&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulr08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=Gokulr08&theme=default&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=Gokulr08&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulr08&theme=github-compact&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulr08&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gokulr08&theme=flat&no-frame=true&column=7&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gokulr08&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
 </p>
 
 ---
