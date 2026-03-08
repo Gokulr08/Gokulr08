@@ -61,7 +61,7 @@
 <p align="center"><sub><b>Data & Analytics</b> — Power BI · Pandas · NumPy · Matplotlib · BeautifulSoup</sub></p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,mysql,aws,git,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,aws,git,vscode,postman&theme=dark" />
 </p>
 <p align="center"><sub><b>Frameworks & Tools</b> — MySQL · AWS · Git · VS Code · Postman</sub></p>
 
