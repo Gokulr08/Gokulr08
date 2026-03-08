@@ -66,11 +66,6 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gokulr08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokulr08&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Gokulr08&theme=tokyonight&hide_border=true"/>
@@ -80,12 +75,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulr08&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gokulr08&theme=tokyonight&no-frame=true&column=7&margin-w=10"/>
-</p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gokulr08&style=flat&color=grey" alt="Profile views"/>
-</p>
