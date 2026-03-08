@@ -40,27 +40,30 @@
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
-**Languages**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql&theme=dark" />
+</p>
+<p align="center"><sub><b>Languages</b> — Python · SQL</sub></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white"/>
+</p>
+<p align="center"><sub><b>Data & Analytics</b> — Power BI · Pandas · NumPy · Matplotlib · BeautifulSoup</sub></p>
 
-
-**Data & Analytics**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-
-**Frameworks & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,mysql,aws,git,vscode,postman&theme=dark" />
+</p>
+<p align="center"><sub><b>Frameworks & Tools</b> — MySQL · AWS · Git · VS Code · Postman</sub></p>
 
 ---
 
@@ -74,7 +77,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokulr08&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
-
----
-
